@@ -1,5 +1,8 @@
 # Coursera Final Assignment
 
+![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing_1.gif)
+
+
 ## Overview
 This README outlines the Coursera final assignment, focusing on creating a comprehensive and detailed presentation of a data science project. The goal is to present the findings from data analysis effectively, catering to an audience of peer data scientists.
 
